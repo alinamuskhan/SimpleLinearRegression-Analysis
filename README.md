@@ -90,14 +90,6 @@ Visualizations provide a clear representation of the relationship, and the regre
 
 The project successfully demonstrates the relationship between fuel consumption and CO2 emissions using a simple linear regression approach. The insights gained from this analysis can aid stakeholders in understanding the impact of fuel consumption on emissions, potentially guiding policies aimed at reducing transportation-related CO2 emissions.
 
-## Future Work
-
-Future analyses could consider:
-- Expanding the dataset to include more features, such as vehicle weight or type.
-- Implementing more complex models (e.g., multiple regression or machine learning techniques) for improved accuracy.
-- Conducting a time-series analysis to observe trends over years.
-- Exploring the impact of hybrid and electric vehicles on overall emissions.
-
 ## References
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
